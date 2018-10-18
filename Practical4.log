@@ -1,0 +1,4 @@
+﻿  Main.cpp
+c:\users\215077958\documents\visual studio 2017\projects\practical4\practical4\main.cpp(36): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Practical4.vcxproj -> C:\Users\215077958\Documents\Visual Studio 2017\Projects\Practical4\Debug\Practical4.exe
+  Practical4.vcxproj -> C:\Users\215077958\Documents\Visual Studio 2017\Projects\Practical4\Debug\Practical4.pdb (Partial PDB)
